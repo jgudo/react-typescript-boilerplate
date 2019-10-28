@@ -1,7 +1,7 @@
-# React With Webpack Boilerplate
+# React With Webpack and TypeScript Boilerplate
 
 ### Version
-1.2.0
+1.0.0
 
 
 ### Installation
@@ -22,4 +22,10 @@ Dev server is now ready and can be accessed in browser in <http://localhost:8080
 
 ```sh
 $ npm run dev-server
+```
+
+### Build the Project
+
+```sh
+$ npm run build
 ```
